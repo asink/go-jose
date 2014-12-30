@@ -25,7 +25,7 @@ import (
 	"crypto/sha256"
 	"errors"
 	"fmt"
-	"github.com/square/go-jose/cipher"
+	"github.com/asink/go-jose/cipher"
 	"math/big"
 )
 

@@ -26,7 +26,7 @@ import (
 	"crypto/subtle"
 	"errors"
 	"fmt"
-	"github.com/square/go-jose/cipher"
+	"github.com/asink/go-jose/cipher"
 	"hash"
 	"io"
 )
